@@ -1,0 +1,6 @@
+*.lck
+_autosave*
+fp-info-cache
+nixie-clock-backups
+nixie-clock-psu-backups
+nixie-clock-tubes-backups
