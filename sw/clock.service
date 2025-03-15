@@ -1,0 +1,11 @@
+[Unit]
+Description=LED clock update service
+Requires=default.target
+
+[Service]
+ExecStartPre=/bin/sleep 30
+ExecStart=/usr/bin/clock.py
+Restart=on-failure
+
+[Install]
+WantedBy=default.target
