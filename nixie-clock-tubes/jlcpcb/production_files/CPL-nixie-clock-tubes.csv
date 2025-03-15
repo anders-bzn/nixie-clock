@@ -1,0 +1,20 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_02x05_Odd_Even,PinSocket_2x05_P2.00mm_Vertical,173.5,-90.0,90.0,top
+J2,Conn_02x05_Odd_Even,PinSocket_2x05_P2.00mm_Vertical,195.5,-90.0,90.0,top
+J3,Conn_02x05_Odd_Even,PinSocket_2x05_P2.00mm_Vertical,159.5,-90.0,90.0,top
+J4,Conn_02x05_Odd_Even,PinSocket_2x05_P2.00mm_Vertical,92.0,-90.0,90.0,top
+J5,Conn_02x05_Odd_Even,PinSocket_2x05_P2.00mm_Vertical,106.0,-90.0,90.0,top
+J6,Conn_02x05_Odd_Even,PinSocket_2x05_P2.00mm_Vertical,128.5,-90.0,90.0,top
+J7,Conn_02x02_Odd_Even,PinSocket_2x02_P2.00mm_Vertical,184.5,-90.0,90.0,top
+N1,~,IN-14,88.352826,-103.420089,0.0,bottom
+N2,~,IN-14,109.5,-103.420089,0.0,bottom
+N3,~,IN-14,133.5,-103.420089,0.0,bottom
+N4,~,IN-14,154.5,-103.420089,0.0,bottom
+N5,~,IN-14,178.5,-103.420089,0.0,bottom
+N6,~,IN-14,199.5,-103.420089,0.0,bottom
+R1,2k2,R_1206_3216Metric,142.5,-95.5,90.0,bottom
+R2,2k2,R_1206_3216Metric,118.5,-95.5,90.0,bottom
+R3,2k2,R_1206_3216Metric,97.5,-95.5,90.0,bottom
+R4,2k2,R_1206_3216Metric,163.5,-95.5,90.0,bottom
+R5,2k2,R_1206_3216Metric,187.5,-95.5,90.0,bottom
+R6,2k2,R_1206_3216Metric,190.0,-95.5,90.0,bottom

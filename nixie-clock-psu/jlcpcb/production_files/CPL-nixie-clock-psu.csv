@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,163.6,-117.2,90.0,top
+C10,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,199.0,-113.5,0.0,top
+C11,1n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,201.45,-95.5,-90.0,top
+C2,10u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,166.6,-109.2,0.0,top
+C3,1n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,173.6,-109.2,0.0,top
+C4,10u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,194.0,-113.5,0.0,top
+C5,100uF/10V,CP_Elec_5x5.3,187.2,-115.4,90.0,top
+C6,330uF/16V,CP_Elec_6.3x7.7,191.2,-107.25,-90.0,top
+C7,10uF/250V,CP_Elec_10x12.5,205.5,-105.0,90.0,top
+C8,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,180.6,-109.2,0.0,top
+C9,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,180.6,-100.2,180.0,top
+D2,ES2F,D_SMB,191.7,-89.5,180.0,top
+J1,Conn_01x04_Pin,PinSocket_1x04_P2.54mm_Vertical,196.81,-117.0,270.0,bottom
+J2,12V DC,BarrelJack_GCT_DCJ200-10-A_Horizontal,156.705,-97.85,180.0,top
+L1,4u7,L_Changjiang_FNR4030S,168.5,-117.0,0.0,top
+L2,100u,L_Sunlord_SWPA8040S,191.2,-97.0,90.0,top
+Q1,IRF644,TO-263-2,175.125,-93.0,0.0,top
+R1,1M5,R_1206_3216Metric,198.0,-95.5,-90.0,top
+R2,13k3,R_1206_3216Metric,198.0,-101.0,-90.0,top
+R3,0R10,R_1206_3216Metric,169.4,-101.092,-90.0,top
+U1,MAX1771xSA,SO-8_3.9x4.9mm_P1.27mm,179.0,-104.6,0.0,top
+U2,R-78B5.0-0.5,78xx-05A,177.86,-117.6,180.0,top

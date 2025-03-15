@@ -1,0 +1,23 @@
+Comment,Designator,Footprint,LCSC,Quantity
+R-78B5.0-0.5,U2,78xx-05A,,1
+MAX1771xSA,U1,SO-8_3.9x4.9mm_P1.27mm,,1
+0R10,R3,R_1206_3216Metric,,1
+13k3,R2,R_1206_3216Metric,,1
+1M5,R1,R_1206_3216Metric,,1
+IRF644,Q1,TO-263-2,,1
+100u,L2,L_Sunlord_SWPA8040S,,1
+4u7,L1,L_Changjiang_FNR4030S,,1
+ES2F,D2,D_SMB,,1
+1n,C11,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+100n,C10,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+100n,C9,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+100n,C8,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+10uF/250V,C7,CP_Elec_10x12.5,,1
+330uF/16V,C6,CP_Elec_6.3x7.7,,1
+100uF/10V,C5,CP_Elec_5x5.3,,1
+12V DC,J2,BarrelJack_GCT_DCJ200-10-A_Horizontal,,1
+10u,C4,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+1n,C3,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+10u,C2,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+10u,C1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+Conn_01x04_Pin,J1,PinSocket_1x04_P2.54mm_Vertical,,1

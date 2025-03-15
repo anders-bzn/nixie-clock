@@ -1,0 +1,156 @@
+%PDF-1.5
+%€‚ƒ
+5 0 obj
+<< /Length 6 0 R /Filter /FlateDecode >>
+stream
+xÚ•–Ën1†÷óYÂ‚›sa‰¸H ÀyªÔê—
+	‰§Ç3“ØiV•¦ßüñïØNÎqÖ¹Œ£ßñx=oŞàßíå¹û²>|xm|¶¸f~M»wSr6—’ğ]lPlS|hÍ‚™;I)A@r>DĞªyò¡Ä¿,S¢¾j³pÕ>G¾ì¡ı–j—İş0«G?K—‡'ı©¿K%$›¼IÑA²êüüd¾½¹¾úôêÛ×ŸÆ»–mÎæôÙDsºÃÿ9ı6^ÜİœÏÍéÖ¼<MïÿÕ®ÔRlÉÿo÷îêû³ávĞæ–£Í¶bái-¢N³yŞú,Tš¡*Ğ: `ËE¥ªb¬6'$µºM¥©J¶~!®ÇRUÉctŸ˜ö³¨ã*HÑF¥º0î[W)Æ³¾v•d¼a8*Æ«zé†¬ê¾CLUPåx)ÑíTPİªªÕB“õRU5dë*‘Q	ÅPÕF/ÒQ1Ra]ª°^Yöƒ©¶ùÊ¢G1_šñX»t¬…‘Šò
+*–dó.‡ûò:p,l+|œmUÌ„f¤Â¹LUÌ—f\5ò*³H9‡““¢pÔŒT”išqÕp¬.ÒËaØÁf+VO8&õVk†*À4C’¡ãªq4Z(°³5«Arß f¤ÂD=ˆ¡×U½gÍPå°=¾J•b˜}£èM9öì×ö´€µÉYíQ2îÈTŠqÇ1š‘Š¢71š	U‹{UÛbmÑS®;ÇãÙÃAöĞû¸í*»nË¾Ñ1ZAh¨IRÓ[M'äªª*Ú¼5CUÃàe«#ŞÄË]9ngÍğ’££˜û­¾|ÕQŒ«b¥w=–f<û16šñJ°TŒW•©ıa†ŞÅåã:ô&l=(dóXåF8Yä®½›•ûq>÷9míÙeÖÉFœqWIÂ3æq$›•ûq>Úé&o
+endstream
+endobj
+6 0 obj
+747
+endobj
+7 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+    /ProcSet [/PDF /Text /ImageC /ImageB]
+    /Font 2 0 R
+    /XObject 3 0 R >>
+/MediaBox [0 0 841.896 595.296]
+/Contents 5 0 R
+>>
+endobj
+8 0 obj
+<</S /GoTo /D [7 0 R /Fit]
+>>
+endobj
+10 0 obj
+<< /BaseFont /Helvetica
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /BaseFont /Helvetica-Oblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+12 0 obj
+<< /BaseFont /Helvetica-Bold
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+13 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+    /KicadFont 10 0 R
+    /KicadFontI 11 0 R
+    /KicadFontB 12 0 R
+    /KicadFontBI 13 0 R
+>>
+endobj
+3 0 obj
+<<
+>>
+endobj
+4 0 obj
+<< /JavaScript
+ << /Names
+    [ (JSInit) << /Type /Action /S /JavaScript /JS (
+function ShM\(aEntries\) {
+    var aParams = [];
+    for \(var i in aEntries\) {
+        aParams.push\({
+            cName: aEntries[i][0],
+            cReturn: aEntries[i][1]
+        }\)
+    }
+
+    var cChoice = app.popUpMenuEx.apply\(app, aParams\);
+    if \(cChoice != null && cChoice.substring\(0, 1\) == '#'\) this.pageNum = parseInt\(cChoice.slice\(1\)\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'http'\) app.launchURL\(cChoice\);
+}
+) >> ]
+ >>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+7 0 R
+]
+/Count 1
+>>
+endobj
+14 0 obj
+<<
+/Producer (KiCad PDF)
+/CreationDate (D:20250217180649)
+/Creator (PCBNEW)
+/Title (nixie-clock-tubes-NPTH-drl_map.pdf)
+>>
+endobj
+9 0 obj
+<<
+/Title (Page 1)
+/Parent 15 0 R
+/A 8 0 R
+>>
+endobj
+15 0 obj
+<< /Type /Outlines
+   /Count 1
+   /First 9 0 R
+   /Last 9 0 R
+>>
+endobj
+16 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Version /1.5
+/PageMode /UseOutlines
+/Outlines 15 0 R
+/Names 4 0 R
+/PageLayout /SinglePage
+>>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000002245 00000 n 
+0000001542 00000 n 
+0000001655 00000 n 
+0000001676 00000 n 
+0000000015 00000 n 
+0000000836 00000 n 
+0000000855 00000 n 
+0000001044 00000 n 
+0000002443 00000 n 
+0000001089 00000 n 
+0000001196 00000 n 
+0000001311 00000 n 
+0000001423 00000 n 
+0000002304 00000 n 
+0000002504 00000 n 
+0000002585 00000 n 
+trailer
+<< /Size 17 /Root 16 0 R /Info 14 0 R >>
+startxref
+2726
+%%EOF
