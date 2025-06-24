@@ -21,7 +21,7 @@ The main board, it hold gpio-expanders and driver IC's for the tubes. It
 also connects to the PSU board, Raspberry Pi and the nixie tube board.
 
 ### Board nixie-clock-psu
-Power supply board, creates 5V DC and 170V DC from 12V DC. The 170V is created by a step up converter build using a MAX1771 IC. The 5V is created by a integrated switched regulator.
+Power supply board, creates 5V DC and 170V DC from 12V DC. The 170V is created by a step up converter built using a MAX1771 IC. The 5V is created by a integrated switched regulator.
 
 ### Board nixie-clock-tubes
 Upper board on which all tubes are mounted.
